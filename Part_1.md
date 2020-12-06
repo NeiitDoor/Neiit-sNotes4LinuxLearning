@@ -46,7 +46,7 @@
 #### (3). 操作
 - 第一步：图形化界面安装manjaro
 
-![](https://raw.githubusercontent.com/NeiitDoor/Notes4LinuxLearning/main/Images/09.jpg)
+![](https://raw.githubusercontent.com/NeiitDoor/Neiit-sNotes4LinuxLearning/main/imgs/part1-imgs/09.jpg)
 
 **Virtual Box配置**
 
@@ -59,14 +59,14 @@
 **启动进入安装界面，操作如下**
 
 
-![](https://raw.githubusercontent.com/NeiitDoor/Notes4LinuxLearning/main/Images/01.jpg)
-![](https://raw.githubusercontent.com/NeiitDoor/Notes4LinuxLearning/main/Images/02.jpg)
-![](https://raw.githubusercontent.com/NeiitDoor/Notes4LinuxLearning/main/Images/03.jpg)
-![](https://raw.githubusercontent.com/NeiitDoor/Notes4LinuxLearning/main/Images/04.jpg)
-![](https://raw.githubusercontent.com/NeiitDoor/Notes4LinuxLearning/main/Images/05.jpg)
-![](https://raw.githubusercontent.com/NeiitDoor/Notes4LinuxLearning/main/Images/06.jpg)
-![](https://raw.githubusercontent.com/NeiitDoor/Notes4LinuxLearning/main/Images/07.jpg)
-![](https://raw.githubusercontent.com/NeiitDoor/Notes4LinuxLearning/main/Images/08.jpg)
+![](https://raw.githubusercontent.com/NeiitDoor/Neiit-sNotes4LinuxLearning/main/imgs/part1-imgs/01.jpg)
+![](https://raw.githubusercontent.com/NeiitDoor/Neiit-sNotes4LinuxLearning/main/imgs/part1-imgs/02.jpg)
+![](https://raw.githubusercontent.com/NeiitDoor/Neiit-sNotes4LinuxLearning/main/imgs/part1-imgs/03.jpg)
+![](https://raw.githubusercontent.com/NeiitDoor/Neiit-sNotes4LinuxLearning/main/imgs/part1-imgs/04.jpg)
+![](https://raw.githubusercontent.com/NeiitDoor/Neiit-sNotes4LinuxLearning/main/imgs/part1-imgs/05.jpg)
+![](https://raw.githubusercontent.com/NeiitDoor/Neiit-sNotes4LinuxLearning/main/imgs/part1-imgs/06.jpg)
+![](https://raw.githubusercontent.com/NeiitDoor/Neiit-sNotes4LinuxLearning/main/imgs/part1-imgs/07.jpg)
+![](https://raw.githubusercontent.com/NeiitDoor/Neiit-sNotes4LinuxLearning/main/imgs/part1-imgs/08.jpg)
 
 （  因为还没准备好图床，就只能先用我的github仓库凑活一下  ）
 
@@ -145,10 +145,10 @@ XMODIFIERS    DEFAULT=\@im=fcitx5
 
 (4). 注：因为个人喜好的原因，其实改动并不大。与主机的对比如下：
 
-![](https://raw.githubusercontent.com/NeiitDoor/Notes4LinuxLearning/main/Images/12.jpg)
+![](https://raw.githubusercontent.com/NeiitDoor/Neiit-sNotes4LinuxLearning/main/imgs/part1-imgs/12.jpg)
 
 (5). 以下为配置效果
-![](https://raw.githubusercontent.com/NeiitDoor/Notes4LinuxLearning/main/Images/11.jpg)
+![](https://raw.githubusercontent.com/NeiitDoor/Neiit-sNotes4LinuxLearning/main/imgs/part1-imgs/11.jpg)
 
 
 ****
@@ -175,5 +175,5 @@ int main(void)
 
 运行截图如下
 
-![](https://raw.githubusercontent.com/NeiitDoor/Notes4LinuxLearning/main/Images/13.jpg)
+![](https://raw.githubusercontent.com/NeiitDoor/Neiit-sNotes4LinuxLearning/main/imgs/part1-imgs/13.jpg)
 
